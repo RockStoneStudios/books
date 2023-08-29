@@ -10,7 +10,7 @@
 git clone https://github.com/RockStoneStudios/books.git
 
 
-2. cd mi-proyecto-increible
+2. 
 yarn install
 
 
