@@ -23,5 +23,14 @@ DB_PASSWORD=root
 DB_DATABASE=book_crud
 
 
+![image](https://github.com/RockStoneStudios/books/assets/68566212/dfd197ff-d51b-4976-8484-625c1ddb4f6d)
 
+
+
+
+
+![image](https://github.com/RockStoneStudios/books/assets/68566212/5fe1792d-2db7-43a9-8dd5-45c8a8d5bc43)
+
+
+![image](https://github.com/RockStoneStudios/books/assets/68566212/2fddd98a-efa6-4701-8280-0210665256bc)
 
