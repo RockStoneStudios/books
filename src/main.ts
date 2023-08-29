@@ -14,6 +14,7 @@ async function bootstrap() {
       transform:true
     })
   )
+  app.enableCors();
   const config = new DocumentBuilder().addBearerAuth()
     .setTitle('Books')
     .setDescription('The books API description')

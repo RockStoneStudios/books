@@ -8,10 +8,10 @@ import { books } from 'src/examples/ejemplo';
 import { AuthGuard } from 'src/auth/auth.guard';
 
 
-@UseGuards(AuthGuard)
+// @UseGuards(AuthGuard)
 @Controller('books')
 @ApiTags('books')
-@ApiBearerAuth()
+// @ApiBearerAuth()
 export class BooksController {
 
   constructor(private readonly booksService: BooksService) {}
