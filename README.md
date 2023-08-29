@@ -11,7 +11,8 @@ git clone https://github.com/RockStoneStudios/books.git
 
 
 2. cd mi-proyecto-increible
-npm install
+yarn install
+
 
 
 PORT=3001
