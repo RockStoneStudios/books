@@ -13,7 +13,9 @@ git clone https://github.com/RockStoneStudios/books.git
 2. 
 yarn install
 
+## Documentacion
 
+la documentacion con swagger la encuentras en localhost:3001/api
 
 PORT=3001
 DB_HOST=localhost
